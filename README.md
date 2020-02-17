@@ -5,6 +5,6 @@ MyNewHome is written in Python and uses the Flask web framework. It is connected
 
 MyNewHome is currently not hosted. It was formerly accessible at url: www.mynewhomeapp.xyz
 
-Screenshots of the webaite are in the screenshot folder.
+Screenshots of the website are in the screenshot folder.
 
 Here is a demo of the site: https://www.youtube.com/watch?v=FL78qsCTZGY&feature=youtu.be
