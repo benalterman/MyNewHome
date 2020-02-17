@@ -3,8 +3,8 @@ This is the project home for MyNewHome, a web app designed to help new residents
 
 MyNewHome is written in Python and uses the Flask web framework. It is connected to a SQLAlchemy database. MyNewHome is hosted on a Linode Ubuntu 18.10 server. SSL HTTPS encryption through certbot.
 
-MyNewHome is currently not hosted. It was formerly accessible at url: www.mynewhomeapp.xyz
+MyNewHome is currently not hosted. It was formerly accessible at www.mynewhomeapp.xyz
 
-Screenshots of the website are in the screenshot folder.
+Screenshots of the website are in the screenshot folder https://github.com/benalterman/MyNewHome/tree/master/Screenshots
 
 Here is a demo of the site: https://www.youtube.com/watch?v=FL78qsCTZGY&feature=youtu.be
